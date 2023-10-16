@@ -1,0 +1,7 @@
+7. Press i to enter insert mode before the cursor.
+8. In normal mode, press dd to delete (cut) the current line.
+9. In normal mode, press p to paste the lines in the buffer after the current line.
+10. In normal mode, press u to undo the last change.
+11. In normal mode command :q! to quit without saving changes.
+12. In normal mode, press 0 to move the cursor to the start of the current line.
+13. In normal mode, press $ to move the cursor to the end of the line.
